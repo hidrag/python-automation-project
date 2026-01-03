@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (if created later)
+venv/
+.env/
+
+# Logs
+logs/
+*.log
+
+# Generated output files
+data/output_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
